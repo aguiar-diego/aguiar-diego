@@ -5,7 +5,7 @@
 💡 Interessado em desenvolvimento de software, tecnologia e inovação  
 
 
-##🌱 Atualmente aprendendo
+## 🌱 Atualmente aprendendo
 - Programação Orientada a Objetos (POO) com Java  
 - Fundamentos de Python  
 - Algoritmos e estruturas de dados  
