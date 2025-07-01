@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Diego Aguiar Garcia
+# 👋 Oii! Sou o Diego Aguiar Garcia
 
 🎓 Estudante de Sistemas de Informação na USP  
 🔧 Técnico em Eletroeletrônica formado pelo COTUCA - Unicamp  
